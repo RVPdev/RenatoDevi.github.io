@@ -231,7 +231,7 @@ footer p {
   }
 
   .about-div p {
-    font-size: 70%;
+    font-size: 80%;
     margin: auto;
     margin-left: 10px;
   }
@@ -249,7 +249,7 @@ footer p {
 
   .download-div {
     width: 50%;
-    font-size: 50%;
+    font-size: 70%;
     margin: auto;
   }
 
@@ -265,7 +265,7 @@ footer p {
 
   .container {
     margin: 5px;
-    font-size: 50%;
+    font-size: 70%;
   }
 
   .container h3 {
